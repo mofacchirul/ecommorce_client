@@ -1,6 +1,6 @@
   # Ecommercer
 
-A **responsive** car rental platform that allows users to **rent cars, add listings, book vehicles**, and manage bookings easily. Supports **Google authentication** for secure login and personalized experiences.  
+"A responsive and user-friendly eCommerce platform that allows users to effortlessly browse, shop, and manage their orders. Enjoy a seamless experience with secure payments, real-time tracking, and hassle-free order management."  
 
 ## 📌 Live Demo  
 🔗 **Visit Website:** [Ecommercer](https://ecommercer-fd50c.web.app/)  
