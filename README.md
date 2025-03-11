@@ -8,14 +8,19 @@
 ---
 
 ## 📖 Overview  
-The **Rent A Car** website enables users to conveniently **rent vehicles**, **add car listings**, and **manage bookings**. Designed with **responsiveness** in mind, it works seamlessly across both **mobile** and **desktop** devices.  
+The E-Commerce Website allows users to seamlessly browse, purchase products, and manage their orders. Designed with responsiveness in mind, it ensures a smooth shopping experience on both mobile and desktop devices. Users can also add product listings, track orders, and enjoy real-time updates for a hassle-free e-commerce experience. 
 
 #### 🛒 E-Commerce Website Features
 ✅ User Authentication – Register and log in using Google authentication.
+
 ✅ Product Listings – Add and manage product listings effortlessly.
+
 ✅ Order Management – Place orders, track them, and manage order details.
+
 ✅ Responsive Design – Fully functional on both mobile and desktop devices.
+
 ✅ Interactive Animations – Enhanced user experience with Framer Motion and Lottie Animations.
+
 ✅ Real-time Updates – Instantly reflect order and inventory updates in the UI. 
 
 ---
