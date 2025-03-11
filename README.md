@@ -1,8 +1,39 @@
-# React + Vite
+  # Ecommercer
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A **responsive** car rental platform that allows users to **rent cars, add listings, book vehicles**, and manage bookings easily. Supports **Google authentication** for secure login and personalized experiences.  
 
-Currently, two official plugins are available:
+## 📌 Live Demo  
+🔗 **Visit Website:** [Ecommercer](https://ecommercer-fd50c.web.app/)  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+---
+
+## 📖 Overview  
+The **Rent A Car** website enables users to conveniently **rent vehicles**, **add car listings**, and **manage bookings**. Designed with **responsiveness** in mind, it works seamlessly across both **mobile** and **desktop** devices.  
+
+### 🚀 Features  
+- ✅ **User Authentication** – Register and log in using Google authentication.  
+- ✅ **Car Listings** – Add and manage your car listings for rental.  
+- ✅ **Booking Management** – Book vehicles and manage booking details effortlessly.  
+- ✅ **Responsive Design** – Fully functional on both **mobile** and **desktop** devices.  
+- ✅ **Interactive Animations** – Enhanced user experience with **Framer Motion** and **Lottie Animations**.  
+- ✅ **Real-time Updates** – All changes are immediately reflected in the UI.  
+
+---
+
+## 🖥️ Tech Stack  
+
+### 🔹 **Frontend:**  
+- ⚛️ **React.js**  
+- 🎨 **Tailwind CSS & DaisyUI**  
+- 🌐 **React Router DOM**  
+
+### 🔹 **Backend & Database:**  
+- 🔥 **Firebase Authentication & Firestore Database**  
+
+### 🔹 **Third-Party Services:**  
+- 📦 **Axios** (for API requests)  
+- 🍭 **SweetAlert2** (for alerts and confirmations)  
+
+---
+
+Let me know if you need any modifications! 🚀🔥  
