@@ -26,6 +26,7 @@ The E-Commerce Website allows users to seamlessly browse, purchase products, and
 ✅ User Roles:
 
 👤 User: Browse products, place orders, track them, and manage their profile.
+
 🛠 Admin: Manage product listings, update order statuses, track inventory, and view reports.
 
 ---
