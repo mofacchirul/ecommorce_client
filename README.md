@@ -21,7 +21,12 @@ The E-Commerce Website allows users to seamlessly browse, purchase products, and
 
 ✅ Interactive Animations – Enhanced user experience with Framer Motion and Lottie Animations.
 
-✅ Real-time Updates – Instantly reflect order and inventory updates in the UI. 
+✅ Real-time Updates – Instantly reflect order and inventory updates in the UI.
+
+✅ User Roles:
+
+👤 User: Browse products, place orders, track them, and manage their profile.
+🛠 Admin: Manage product listings, update order statuses, track inventory, and view reports.
 
 ---
 
